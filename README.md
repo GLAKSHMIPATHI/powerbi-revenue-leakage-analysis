@@ -36,7 +36,7 @@ This project builds an **executive-grade Power BI dashboard** to analyze:
 ### 1️⃣ Executive Summary
 High-level KPIs and narrative insights for leadership decision-making.
 
-![Executive Summary](Screenshot 2025-12-24 171055.png)
+![Executive Summary]("C:\Users\andre\OneDrive\powerbi-revenue-leakage-analysis\Data\Screenshots\Screenshot 2025-12-24 171055.png")
 
 ---
 
