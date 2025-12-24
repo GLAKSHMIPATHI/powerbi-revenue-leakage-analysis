@@ -36,7 +36,7 @@ This project builds an **executive-grade Power BI dashboard** to analyze:
 ### 1️⃣ Executive Summary
 High-level KPIs and narrative insights for leadership decision-making.
 
-![Executive Summary] (<img width="1145" height="630" alt="Screenshot 2025-12-24 171055" src="https://github.com/user-attachments/assets/109bc478-18dc-403c-a4ed-4c0efe0d0229" />
+(<img width="1145" height="630" alt="Screenshot 2025-12-24 171055" src="https://github.com/user-attachments/assets/109bc478-18dc-403c-a4ed-4c0efe0d0229" />
 )
 
 ---
