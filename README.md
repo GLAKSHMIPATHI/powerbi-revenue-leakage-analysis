@@ -29,7 +29,7 @@ across platforms, channels, and product categories.
 3. Trends & Drivers
 4. Leakage by Category / Platform
 5. Platform → Channel Drill-through
-
+C:\Users\andre\OneDrive\powerbi-revenue-leakage-analysis\Data\Screenshots
 ## Tools Used
 - Power BI
 - DAX
