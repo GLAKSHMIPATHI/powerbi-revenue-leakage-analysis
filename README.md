@@ -36,16 +36,16 @@ This project builds an **executive-grade Power BI dashboard** to analyze:
 ### 1️⃣ Executive Summary
 High-level KPIs and narrative insights for leadership decision-making.
 
-(<img width="1145" height="630" alt="Screenshot 2025-12-24 171055" src="https://github.com/user-attachments/assets/109bc478-18dc-403c-a4ed-4c0efe0d0229" />
-)
+<img width="1145" height="630" alt="Screenshot 2025-12-24 171055" src="https://github.com/user-attachments/assets/109bc478-18dc-403c-a4ed-4c0efe0d0229" />
+
 
 ---
 
 ### 2️⃣ KPI & Trends
 Core revenue, pricing, and growth KPIs with time-based trends.
 
-![KPI & Trends](<img width="1139" height="655" alt="Screenshot 2025-12-24 170600" src="https://github.com/user-attachments/assets/4deb6878-e4d3-42da-a9d4-72f58c7904d0" />
-)
+<img width="1139" height="655" alt="Screenshot 2025-12-24 170600" src="https://github.com/user-attachments/assets/4deb6878-e4d3-42da-a9d4-72f58c7904d0" />
+
 
 **Includes**
 - Net Revenue
@@ -60,8 +60,8 @@ Core revenue, pricing, and growth KPIs with time-based trends.
 ### 3️⃣ Trends & Drivers
 Explains *why* performance changed — efficiency vs volume vs pricing.
 
-![Trends & Drivers](<img width="1153" height="653" alt="Screenshot 2025-12-24 170655" src="https://github.com/user-attachments/assets/564eb381-69fd-4f56-bfed-cbc76d99eb69" />
-)
+<img width="1153" height="653" alt="Screenshot 2025-12-24 170655" src="https://github.com/user-attachments/assets/564eb381-69fd-4f56-bfed-cbc76d99eb69" />
+
 
 **Includes**
 - Ad Spend vs Net Revenue
@@ -74,8 +74,8 @@ Explains *why* performance changed — efficiency vs volume vs pricing.
 ### 4️⃣ Leakage by Category / Platform
 Deep-dive into where revenue is being lost operationally.
 
-![Leakage Analysis](<img width="1148" height="647" alt="Screenshot 2025-12-24 170741" src="https://github.com/user-attachments/assets/ce09c46e-8e29-4022-beca-277eb23767e3" />
-)
+<img width="1148" height="647" alt="Screenshot 2025-12-24 170741" src="https://github.com/user-attachments/assets/ce09c46e-8e29-4022-beca-277eb23767e3" />
+
 
 **Insights**
 - Returns are the dominant leakage driver
@@ -87,8 +87,8 @@ Deep-dive into where revenue is being lost operationally.
 ### 5️⃣ Platform → Channel Drill-through
 Interactive drill-through to trace performance from platform to channel.
 
-![Drill Through](<img width="1148" height="647" alt="Screenshot 2025-12-24 170741" src="https://github.com/user-attachments/assets/215923da-6b82-46bc-8096-b000ce9abafa" />
-)
+<img width="1148" height="647" alt="Screenshot 2025-12-24 170741" src="https://github.com/user-attachments/assets/215923da-6b82-46bc-8096-b000ce9abafa" />
+
 
 **Purpose**
 - Identify which platforms drive revenue into which channels
@@ -137,10 +137,18 @@ Interactive drill-through to trace performance from platform to channel.
 - Drill-through design for deep analysis
 - Executive narrative storytelling
 
-## Outcome
-Delivered an executive-ready dashboard that explains **what happened, why it happened,
-and where action is needed**.
+
+---
+
+## ✅ Outcome
+Delivered an **executive-ready Power BI dashboard** that clearly explains:
+
+> **What happened → Why it happened → Where action is required**
+
+This project demonstrates **business-focused analytics**, not just visualization.
+
+---
 
 ## 👤 Author
-**Lakshmi Pathi**  
+**G Lakshmi Pathi**  
 Aspiring Data Analyst  
