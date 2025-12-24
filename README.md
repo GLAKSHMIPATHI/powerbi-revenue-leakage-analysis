@@ -87,8 +87,7 @@ Deep-dive into where revenue is being lost operationally.
 ### 5️⃣ Platform → Channel Drill-through
 Interactive drill-through to trace performance from platform to channel.
 
-<img width="1148" height="647" alt="Screenshot 2025-12-24 170741" src="https://github.com/user-attachments/assets/215923da-6b82-46bc-8096-b000ce9abafa" />
-
+<img width="413" height="309" alt="Screenshot 2025-12-24 170850" src="https://github.com/user-attachments/assets/fdc360f6-a20f-489e-85ac-ab1ee791e8a0" />
 
 **Purpose**
 - Identify which platforms drive revenue into which channels
