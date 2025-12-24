@@ -29,7 +29,6 @@ across platforms, channels, and product categories.
 3. Trends & Drivers
 4. Leakage by Category / Platform
 5. Platform → Channel Drill-through
-Screenshot 2025-12-24 170600.png
 
 ## Tools Used
 - Power BI
